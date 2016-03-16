@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.5">
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/.DS_Store">
+<error line="1" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="1" column="24" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="2" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="3" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/boardview/.DS_Store">
+<error line="1" column="388" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/boardview/BoardView.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/boardview/ChessFX.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/boardview/Tile.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/boardview/TileView.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/gamecontrol/ai/AIChessEngine.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/gamecontrol/ai/RandomChessEngine.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/gamecontrol/AIChessController.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/gamecontrol/ChessController.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/gamecontrol/ChessState.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/gamecontrol/GameController.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/gamecontrol/GameState.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/gamecontrol/NetworkedChessController.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/Board.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/Bishop.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/CastlingMove.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/ChessBoard.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/ChessPiece.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/ChessUtils.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/King.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/Knight.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/Pawn.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/PawnCaptureMove.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/PromotionMove.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/Queen.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/chess/Rook.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/IllegalMoveException.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/Move.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/Piece.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/PieceType.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/Position.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/Side.java">
+</file>
+<file name="/Users/Courtney/Documents/cs1331/hw-chess-master/src/main/java/model/SideHasNoMovesException.java">
+</file>
+</checkstyle>
